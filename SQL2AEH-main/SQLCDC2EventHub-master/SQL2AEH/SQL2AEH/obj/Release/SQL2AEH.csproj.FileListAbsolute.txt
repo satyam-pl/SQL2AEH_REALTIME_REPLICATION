@@ -1,0 +1,16 @@
+C:\Users\ws_htu1300\Downloads\SQLCDC2EventHub-master\SQLCDC2EventHub-master\SQL2AEH\SQL2AEH\bin\Release\SQL2AEH.exe.config
+C:\Users\ws_htu1300\Downloads\SQLCDC2EventHub-master\SQLCDC2EventHub-master\SQL2AEH\SQL2AEH\bin\Release\SQL2AEH.exe
+C:\Users\ws_htu1300\Downloads\SQLCDC2EventHub-master\SQLCDC2EventHub-master\SQL2AEH\SQL2AEH\bin\Release\SQL2AEH.pdb
+C:\Users\ws_htu1300\Downloads\SQLCDC2EventHub-master\SQLCDC2EventHub-master\SQL2AEH\SQL2AEH\bin\Release\Hyak.Common.dll
+C:\Users\ws_htu1300\Downloads\SQLCDC2EventHub-master\SQLCDC2EventHub-master\SQL2AEH\SQL2AEH\bin\Release\Microsoft.Azure.Common.dll
+C:\Users\ws_htu1300\Downloads\SQLCDC2EventHub-master\SQLCDC2EventHub-master\SQL2AEH\SQL2AEH\bin\Release\Microsoft.ServiceBus.dll
+C:\Users\ws_htu1300\Downloads\SQLCDC2EventHub-master\SQLCDC2EventHub-master\SQL2AEH\SQL2AEH\bin\Release\Newtonsoft.Json.dll
+C:\Users\ws_htu1300\Downloads\SQLCDC2EventHub-master\SQLCDC2EventHub-master\SQL2AEH\SQL2AEH\bin\Release\Hyak.Common.xml
+C:\Users\ws_htu1300\Downloads\SQLCDC2EventHub-master\SQLCDC2EventHub-master\SQL2AEH\SQL2AEH\bin\Release\Microsoft.Azure.Common.xml
+C:\Users\ws_htu1300\Downloads\SQLCDC2EventHub-master\SQLCDC2EventHub-master\SQL2AEH\SQL2AEH\bin\Release\Microsoft.ServiceBus.xml
+C:\Users\ws_htu1300\Downloads\SQLCDC2EventHub-master\SQLCDC2EventHub-master\SQL2AEH\SQL2AEH\bin\Release\Newtonsoft.Json.xml
+C:\Users\ws_htu1300\Downloads\SQLCDC2EventHub-master\SQLCDC2EventHub-master\SQL2AEH\SQL2AEH\obj\Release\SQL2AEH.csproj.AssemblyReference.cache
+C:\Users\ws_htu1300\Downloads\SQLCDC2EventHub-master\SQLCDC2EventHub-master\SQL2AEH\SQL2AEH\obj\Release\SQL2AEH.csproj.CoreCompileInputs.cache
+C:\Users\ws_htu1300\Downloads\SQLCDC2EventHub-master\SQLCDC2EventHub-master\SQL2AEH\SQL2AEH\obj\Release\SQL2AEH.csproj.CopyComplete
+C:\Users\ws_htu1300\Downloads\SQLCDC2EventHub-master\SQLCDC2EventHub-master\SQL2AEH\SQL2AEH\obj\Release\SQL2AEH.exe
+C:\Users\ws_htu1300\Downloads\SQLCDC2EventHub-master\SQLCDC2EventHub-master\SQL2AEH\SQL2AEH\obj\Release\SQL2AEH.pdb
